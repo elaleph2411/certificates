@@ -1,2 +1,4 @@
-# certificates
-Academic and profesional certificates 
+# Academic Certificates
+
+This repository contains official electronic certificates related
+to my academic training in Mathematics and Data Science.
